@@ -1,52 +1,49 @@
-# Hi, I'm Gilchrist Kanté 👋
+<h1 align="center">Hi 👋, I'm Gilchrist Kanté</h1>
+<h3 align="center">Full-stack developer from Cotonou, Benin 🇧🇯 — I build web products and ship them to production</h3>
 
-**Full-stack developer based in Cotonou, Benin — open to remote roles and freelance missions.**
-Développeur full-stack à Cotonou, ouvert aux postes à distance et aux missions freelance.
+<p align="center">
+  <a href="https://gilchristkante.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=22&pause=1200&color=F1592C&center=true&vCenter=true&width=640&lines=TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+PostgreSQL;From+the+first+commit+to+the+production+server;Open+to+remote+roles+and+freelance+missions" alt="Typing SVG" />
+  </a>
+</p>
 
-I build and ship web products end to end: TypeScript APIs with NestJS and PostgreSQL, React and Next.js front ends, and the servers they run on (VPS, Dokku, Nginx, CI). Most of my work is for clients and lives in private repositories; the products below are live.
+<p align="center">
+  <a href="https://gilchristkante.com"><img src="https://img.shields.io/badge/Portfolio-gilchristkante.com-F1592C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gilchrist-kante-4b986b274"><img src="https://img.shields.io/badge/LinkedIn-Gilchrist%20Kant%C3%A9-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kantegilchrist@gmail.com"><img src="https://img.shields.io/badge/Email-kantegilchrist%40gmail.com-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## Selected work
+---
 
-| Project | What it is | My role |
+- 🔭 Working on **[MAO Codes](https://mao.codes)**: artworks you can talk to, by text or voice, in real time (junior tech lead on v1, now a team developer)
+- 🚀 Shipped for clients: e-learning, e-commerce, NFC cards, a health passport and on-chain donations, all live
+- 🛠️ I also run what I build: VPS, Dokku, Nginx, CI, Sentry
+- 🌱 Currently deepening: testing strategy, system design and English
+- 💬 Ask me about **NestJS**, **Next.js** or **self-hosting on a small budget**
+- 📫 Reach me at **kantegilchrist@gmail.com**
+- ⚡ Rule I stick to: reproduce the bug with a failing test before fixing it
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,react,postgres,prisma,supabase,fastapi,docker,nginx,linux,git,vue,python,tailwind&perline=8" alt="Tech stack" />
+</p>
+
+## 🌍 Live projects
+
+| Project | What it is | Role |
 |---|---|---|
-| [MAO Codes](https://mao.codes) | Artworks you can talk to, by text or voice, in real time | Junior tech lead until Aug 2026, then team developer — main contributor to v1 (web, mobile, API) |
-| [Miyabi](https://www.miyabi-shops.com) | Custom jewelry shop delivering across Africa | Led front-end development |
-| [Minds3 Academy](https://academy.minds3o.com) | Web3 e-learning platform with server-side video encoding | Full-stack & DevOps |
-| [Minds Charity](https://charity.minds3o.com) | Crypto donations traced on-chain, with a public ledger | DevOps |
-| [Santé Plus](https://www.esanteplus.bj) | Digital health passport on an NFC card | Full-stack |
-| [Blue'Ston Connect](https://bluestoneconnect.bj) | NFC business cards and contact pages | Full-stack |
-| [Nubi Bar](https://nubibar.com) | QR-code menu for a bar-restaurant | Design & development |
+| [MAO Codes](https://mao.codes) | Talking artworks, text and voice | Junior tech lead → developer |
+| [Miyabi](https://www.miyabi-shops.com) | Custom jewelry shop across Africa | Front-end lead |
+| [Minds3 Academy](https://academy.minds3o.com) | Web3 e-learning platform | Full-stack & DevOps |
+| [Minds Charity](https://charity.minds3o.com) | Crypto donations traced on-chain | DevOps |
+| [Santé Plus](https://www.esanteplus.bj) | Digital health passport on NFC | Full-stack |
+| [Blue'Ston Connect](https://bluestoneconnect.bj) | NFC business cards | Full-stack |
 
-## Open source
+Most client code is private; the open-source side is pinned below 👇
 
-- [whatsapp-transcriber](https://github.com/misterkante/whatsapp-transcriber) — transcribes WhatsApp voice notes locally with faster-whisper, no audio leaves the machine
-- [postit](https://github.com/misterkante/postit) — sticky-notes app in Vue 3 and Pinia (Coding Academy project)
+## 📊 GitHub activity
 
-## Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
-
-## How I work
-
-- I reproduce a bug with a failing test before fixing it.
-- Documentation describes the code as it is, not as it should be.
-- Input is validated at the API boundary, never deep in a service.
-- I deploy what I build, so I know what runs in production and what it costs.
-
-## Background
-
-- Bachelor's in Computer Science (Analysis & Programming) — ENEAM, 2025
-- Coding Academy by Epitech, Benin — full-stack, 2025–2026
-
-## Contact
-
-[Portfolio](https://gilchristkante.com) · [LinkedIn](https://www.linkedin.com/in/gilchrist-kante-4b986b274) · kantegilchrist@gmail.com
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=misterkante&hide_border=true&ring=F1592C&fire=F1592C&currStreakLabel=F1592C" alt="GitHub streak" />
+</p>
