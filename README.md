@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gilchrist Kanté</h1>
-<h3 align="center">Full-stack developer from Cotonou, Benin 🇧🇯 — I build web products and ship them to production</h3>
+<h3 align="center">Full-stack developer from Cotonou, Benin 🇧🇯 — I build web & mobile products and ship them to production</h3>
 
 <p align="center">
   <a href="https://gilchristkante.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=22&pause=1200&color=F1592C&center=true&vCenter=true&width=640&lines=TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+PostgreSQL;From+the+first+commit+to+the+production+server;Open+to+remote+roles+and+freelance+missions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=22&pause=1200&color=F1592C&center=true&vCenter=true&width=640&lines=TypeScript+%C2%B7+NestJS+%C2%B7+Next.js+%C2%B7+PostgreSQL;Mobile+apps+with+React+Native+and+Flutter;From+the+first+commit+to+the+production+server;Open+to+remote+roles+and+freelance+missions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,6 +17,7 @@
 
 - 🔭 Working on **[MAO Codes](https://mao.codes)**: artworks you can talk to, by text or voice, in real time (junior tech lead on v1, now a team developer)
 - 🚀 Shipped for clients: e-learning, e-commerce, NFC cards, a health passport and on-chain donations, all live
+- 📱 Mobile too: React Native / Expo (MAO Codes app) and Flutter
 - 🛠️ I also run what I build: VPS, Dokku, Nginx, CI, Sentry
 - 🌱 Currently deepening: testing strategy, system design and English
 - 💬 Ask me about **NestJS**, **Next.js** or **self-hosting on a small budget**
@@ -26,14 +27,14 @@
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,react,postgres,prisma,supabase,fastapi,docker,nginx,linux,git,vue,python,tailwind&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,react,flutter,dart,postgres,prisma,supabase,fastapi,docker,nginx,linux,git,vue,python,tailwind&perline=8" alt="Tech stack" />
 </p>
 
 ## 🌍 Live projects
 
 | Project | What it is | Role |
 |---|---|---|
-| [MAO Codes](https://mao.codes) | Talking artworks, text and voice | Junior tech lead → developer |
+| [MAO Codes](https://mao.codes) | Talking artworks, text and voice — web & mobile app | Junior tech lead → developer |
 | [Miyabi](https://www.miyabi-shops.com) | Custom jewelry shop across Africa | Front-end lead |
 | [Minds3 Academy](https://academy.minds3o.com) | Web3 e-learning platform | Full-stack & DevOps |
 | [Minds Charity](https://charity.minds3o.com) | Crypto donations traced on-chain | DevOps |
