@@ -1,5 +1,7 @@
 <a href="https://gilchristkante.com"><img src="assets/banner.png" alt="Gilchrist Kanté, full-stack developer, web and mobile, from API to production" width="100%" /></a>
 
+**Gilchrist Kante** · Full-stack developer, web & mobile · TypeScript, NestJS, React, React Native · Cotonou, Benin · Remote
+
 I build web and mobile products in TypeScript and take them all the way to production: the API, the interfaces, the mobile app and the server they run on.
 
 I currently work as a developer at **Atelier Mao** on [MAO Codes](https://mao.codes), artworks you can talk to by text and voice in real time. I am **open to remote roles and freelance missions**.
