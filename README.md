@@ -21,7 +21,6 @@ Most of this code lives in private client repositories, which is why the links b
 | [MAO Codes](https://mao.codes) | Artworks you talk to, by text and voice | Mobile app, web and API. Junior tech lead from January to August 2026 | React Native, Expo, React, NestJS, PostgreSQL |
 | [Minds3 Academy](https://academy.minds3o.com) | Web3 learning platform | Front-end and back-end, server-side video encoding, VPS deployment | Next.js, NestJS, Prisma, PostgreSQL |
 | [Minds Charity](https://charity.minds3o.com) | Crypto donations with a public ledger | Production deployment | Docker, Nginx, Dokku |
-| [Santé Plus](https://www.esanteplus.bj) | Digital health passport on an NFC card | Front-end and back-end, built to the project owner's spec | NestJS, Prisma, React |
 | [Blue'Ston Connect](https://bluestoneconnect.bj) | NFC business cards | Front-end and back-end, built to the project owner's spec | Next.js, NestJS, Supabase |
 | [Miyabi](https://www.miyabi-shops.com) | Custom jewellery store with affiliation | Front-end lead | — |
 | [Nubi Bar](https://nubibar.com) | Restaurant menu behind a QR code | Design and build | HTML, CSS, JavaScript |
