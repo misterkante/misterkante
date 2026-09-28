@@ -1,4 +1,4 @@
-<a href="https://gilchristkante.com"><img src="assets/banner.png" alt="Gilchrist Kanté, full-stack developer, web and mobile, from API to production" width="100%" /></a>
+<a href="https://gilchristkante.com"><img src="assets/banner.png" alt="Gilchrist Kante, full-stack developer, web and mobile, from API to production" width="100%" /></a>
 
 **Gilchrist Kante** · Full-stack developer, web & mobile · TypeScript, NestJS, React, React Native · Cotonou, Benin · Remote
 
