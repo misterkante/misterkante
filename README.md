@@ -8,7 +8,6 @@ I currently work as a developer at **Atelier Mao** on [MAO Codes](https://mao.co
   <a href="https://gilchristkante.com"><img src="https://img.shields.io/badge/Portfolio-F1592C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://gilchristkante.com/CV_Gilchrist_KANTE_Developpeur_Full-Stack.pdf"><img src="https://img.shields.io/badge/Resume_(PDF)-171717?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume (PDF)" /></a>
   <a href="mailto:kantegilchrist@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/gilchrist-kante-4b986b274"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ## In production
