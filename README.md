@@ -29,7 +29,6 @@ Most of this code lives in private client repositories, which is why the links b
 
 - [**AlerteAgri**](https://github.com/misterkante/alerteagri): weather, pest and market alerts for farmers in Benin, over SMS, USSD and an offline PWA. NestJS, React, PostgreSQL.
 - [**WhatsApp Transcriber**](https://github.com/misterkante/whatsapp-transcriber): transcribes WhatsApp voice notes on your own machine, no audio leaves it. Python, faster-whisper.
-- [**Portfolio**](https://github.com/misterkante/Portfolio_II): the source of [gilchristkante.com](https://gilchristkante.com). Next.js, TypeScript, GSAP.
 - [**Post-It**](https://github.com/misterkante/postit): a notes app built at Coding Academy by Epitech. Vue 3, Pinia.
 
 ## Stack
