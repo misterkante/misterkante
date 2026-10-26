@@ -27,6 +27,7 @@ Most of this code lives in private client repositories, which is why the links b
 
 ## Public repositories
 
+- [**cc-model-router**](https://github.com/misterkante/cc-model-router): routes Claude Code tasks to Haiku, Sonnet or Opus by task type, with a 48-run cost/quality benchmark, verification and escalation. Node.js, MIT.
 - [**AlerteAgri**](https://github.com/misterkante/alerteagri): weather, pest and market alerts for farmers in Benin, over SMS, USSD and an offline PWA. NestJS, React, PostgreSQL.
 - [**WhatsApp Transcriber**](https://github.com/misterkante/whatsapp-transcriber): transcribes WhatsApp voice notes on your own machine, no audio leaves it. Python, faster-whisper.
 - [**Post-It**](https://github.com/misterkante/postit): a notes app built at Coding Academy by Epitech. Vue 3, Pinia.
